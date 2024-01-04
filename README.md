@@ -6,6 +6,6 @@
 - cd into react-app-2 and run npm start.
 - cd into single-spa-poc-react-app-1 and run npm start.
 - cd into single-spa-poc-root-config and run npm start.
-- open single-spa-poc-root-config/src/index.ejs and update lines 54-56 with the port numbers each service is running on.
+- open single-spa-poc-root-config/src/index.ejs and update lines 54-56 with the port numbers each service is running on. "@test/poc" == react-app-1. "@test/poc2" == react-app-2
 - in a browser navigate to the address where single-spa-poc-root-config is running.
 - Success?!
